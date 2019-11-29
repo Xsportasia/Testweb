@@ -1,0 +1,537 @@
+
+@import url('css/bootstrap-rtl.min.css');
+
+body{
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+
+/* Homepage Four */
+#wp-megamenu-primary {
+    text-align: left;
+}
+#main-menu .wp-megamenu-wrap .signup-signin a {
+     margin-left: 0px; 
+}
+#menu-secondary-menu.navbar-nav>li>a {
+    margin: 0 0px 0 25px;
+}
+
+.themeum-latest-match-layout2 #home-countdown-timer {
+    float: left;
+}
+#home-countdown-timer > div {
+    margin: 0 0px 0px 40px;
+}
+.image-wrap {
+    direction: ltr;
+}
+.latest-team-wrap {
+    padding: 0;
+    overflow: hidden;
+}
+.recent-result-control a.left, .club-ranking-control a.left {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.club-ranking-inner .pull-right, .themeum-recent-result-item-inner .pull-right  {
+    float: left !important;
+}
+span.total-match-played {
+    text-align: left;
+    float: left;
+}
+
+.themeum-featured-item span i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.thum-style2 .flex-active-slide{
+    width: 100% !important;
+}
+
+.thum-style2 {
+    width: 95px !important;
+    float: left !important;
+    height: 100%;
+    position: absolute !important;
+    top: 0;
+    left: -96px;
+    padding: 0 !important;
+    overflow: hidden;
+}
+.thum-style2 ul li {
+    width: 100% !important;
+}
+.flex-direction-nav {
+    float: left;
+    direction: rtl;
+    position: absolute;
+    left: 112px;
+}
+
+.dashicons-arrow-right-alt2:before {
+    content: "\f341";
+}
+.dashicons-arrow-left-alt2:before {
+    content: "\f345";
+}
+.wpmm-grid-post-content .grid-post-title {
+    text-align: right;
+}
+.wpmm-grid-post-img-wrap .post-in-image {
+    left: auto;
+    right: -2px;
+}
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu > li.wpmm_dropdown_menu ul.wp-megamenu-sub-menu, 
+#wp-megamenu-primary > .wpmm-nav-wrap ul.wp-megamenu li.wpmm-type-widget .wp-megamenu-sub-menu li .wp-megamenu-sub-menu {
+    text-align: right;
+}
+.wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu > li.wpmm_dropdown_menu ul.wp-megamenu-sub-menu {
+    right: 0;
+    left: auto;
+}
+#carousel-breaking-news .breaking-news-controller a.prev {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.text-center.themeum-recent-result-list img {
+    float: left;
+    margin-top: 6px;
+}
+.text-left.themeum-recent-result-list img {
+    margin-top: 6px;
+    float: right;
+}
+.customNavigation .left.rank-control {
+    right: 0;
+}
+.customNavigation a.right {
+    left: 0;
+    right: 50px;
+}
+.entry-blog-meta {
+    border-left-width: 0;
+    border-right-width: 2px;
+}
+.entry-blog-meta ul {
+    text-align: right !important;
+}
+/* Title Section */
+.latest-team .latest-team-b {
+    margin-left: 100px;
+    padding: 15px 50px 15px 20px;
+    float: right;
+}
+#home-countdown-timer > div.next-match-count {
+    margin: 0 0px 0 92px;
+}
+.dark_mail .mc4wp-form p:after {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.rtl .themeum-title-icon {
+margin-right: 0;
+}
+
+.rtl .themeum-title h2 {
+margin-right: 45px;
+}
+
+.rtl .themeum-title.themeum-title-black h2 {
+margin-right: 0;
+}
+
+.rtl .recent-result-control, .rtl .club-ranking-control {
+left: 15px;
+right: auto;
+}
+/* Title Section end */
+
+/* signup */
+#main-menu .nav .signup-signin a {
+    margin-left: 0;
+    margin-right: 60px;	
+}
+
+/* search */
+.home-search form#searchform i {
+	right: auto;
+	left: 0;
+}
+
+/* breaking news */
+.breaking-news-title h2:before {
+	left: auto;
+	right: 0;
+	margin-left: inherit;
+	margin-right: -1000px;
+}
+#carousel-breaking-news .breaking-news-controller {
+	right: auto;
+	left: 15px;
+}
+.fa-angle-right:before {
+	content: "\f104";
+}
+.fa-angle-left:before {
+	content: "\f105";
+}
+
+/* themeum title */
+.themeum-title h2 {
+    margin-left: 0;
+    margin-right: 45px;
+} 
+.themeum-title-icon {
+    margin-right: 0;	
+    margin-left: 15px;	
+}
+.themeum-title.themeum-title-black h2 {
+	margin-right: 0;
+}
+
+/* right sildebar*/
+.recent-result-control, .club-ranking-control {
+    right: auto;
+    left: 15px;
+}
+
+.dark_mail .mc4wp-form p:after {
+    right: auto;	
+    left: 0;	
+}
+
+/* slider 2 */
+.slider2-carousel-indicators .container .slider2-carousel-indicators-inner.carousel-indicators {
+    margin-left: initial;
+    margin-right: 0;
+    left: 15px;
+    right: auto !important;
+}
+
+.slider2-carousel-indicators .nano .nano-pane {
+    right: auto;
+    left: 15px;	
+}
+
+/* highlights */
+.highlights-style2-item span.author,
+.all-highlights-style2-item span.author {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.highlights-style2-item span i,
+.all-highlights-style2-item span i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+ul.popular-news-style2.themeum-default-ul li {
+	direction: ltr;
+}
+.popular-news-style2-item span.author {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+/* popular post */
+.popular-news-style2-item .media>.pull-left {
+    float: right!important;
+    padding-right: 0;
+    padding-left: 20px;
+}
+
+/* top playera */
+.player-carousel-control {
+    right: auto;
+    left: 0;
+}
+.themeum-player .player-inside {
+	left: auto;
+	right: 30px;
+}
+
+.themeum-featured-control {
+	left: 0;
+	right: auto;
+}
+
+
+/* poll */
+.themeum-poll-question p input[type=radio] {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+
+/* themeum-gallery  */
+.themeum-gallery  {
+	direction: ltr;
+}
+
+
+/* newsletter */
+.icon.media-left {
+    padding-right: 0;
+    padding-left: 20px;
+}
+
+.themeum-smart-link .pull-right {
+	right: auto;
+	left: 0;
+}
+
+.fa-chevron-right:before {
+    content: "\f053";
+}
+
+
+/* match and feature */
+.matech-team .icon-right {
+    margin-left: 0;
+    margin-right: 30px;
+}
+.matech-team .icon-left {
+    margin-right: 0;
+    margin-left: 30px;
+}
+.fixture-team-inner .pull-left {
+    margin-right: 0;
+    margin-left: 25px;
+    float: right!important;
+}
+
+.fixture-team-inner .pull-right {
+    margin-left: 0;
+    margin-right: 25px;
+    float: left!important;
+}
+.fixture-team-inner .paddingleft h4 {
+    text-align: right;
+}
+.fixture-team-inner .text-right h4 {
+	text-align: left;
+}
+
+.point-table .point-table-head>tr>th.text-left, .point-table .table>tbody>tr>td.text-left {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.point-table-image {
+    margin-right: 0;	
+    margin-left: 15px;	
+}
+.goal-count ul {
+	text-align: left;
+}
+.goal-count .text-right ul {
+	text-align: right;
+}
+.matech-details-team .pull-left {
+	padding-right: 0;
+	padding-left: 50px;
+    float: right!important;	
+}
+
+.matech-details-team .pull-right {
+	padding-left: 0;
+	padding-right: 50px;
+    float: left!important;		
+}
+
+.matech-details-team.media {
+	text-align: right;
+}
+.match-team-inner .text-right {
+    text-align: left;	
+}
+.match-team-inner .text-left {
+    text-align: right;	
+}
+
+.match-team-inner .right {
+    margin-left: 0;	
+    margin-right: 30px;	
+}
+
+.match-team-inner .left {
+	margin-left: 30px;
+    margin-right: 0;
+}
+
+.team-overlay .player-overlay {
+    left: 0;	
+    right: 70px;	
+}
+
+.team-overlay .player-overlay-right {
+    right: auto;
+    left: 70px;
+}
+
+.match-team-inner {
+	text-align: right;
+}
+.club-squed .pull-left,
+.honours-intro .pull-left {
+    float: right!important;
+}
+
+.club-squed .row .no-col img {
+    margin-right: 0;	
+    margin-left: 25px;	
+}
+.honours-intro .pull-left {
+    margin-right: 0;	
+    margin-left: 40px;	
+}
+
+.player-profile-rightside .media>.pull-right {
+    padding-left: 0;	
+    padding-right: 50px;	
+    float: left!important;
+}
+
+.player-career .pull-right {
+    float: left!important;
+}
+
+.woocommerce nav.woocommerce-pagination, 
+.woocommerce-page nav.woocommerce-pagination, 
+.woocommerce #content nav.woocommerce-pagination, 
+.woocommerce-page #content nav.woocommerce-pagination {
+    text-align: right;
+}
+
+.woocommerce .woocommerce-product-rating .star-rating, .woocommerce-page .woocommerce-product-rating .star-rating {
+    margin: 10px 0 0 8px;
+    float: right;
+}
+
+.woocommerce-page #content table.cart img {
+    float: right;
+}
+
+#main-menu .nav>li .widget_shopping_cart_content ul {
+    width: 260px;   
+}
+
+/* widget */
+.widget-popular-news .media>.pull-left {
+    padding-right: 0;	
+    padding-left: 15px;	
+    float: right!important;	
+}
+
+.entry-blog-meta ul {
+	text-align: left;
+}
+
+.footer-wrap-inner {
+    background: -webkit-linear-gradient(-90deg,rgba(0,0,0,.2) 35%,rgba(0, 0, 0, 0.05) 35%);
+    background: -moz-linear-gradient(-90deg,rgba(0,0,0,.2) 35%,rgba(0, 0, 0, 0.05) 35%);
+    background: -ms-linear-gradient(-90deg,rgba(0,0,0,.2) 35%,rgba(0, 0, 0, 0.05) 35%);
+    background: linear-gradient(-90deg,rgba(0,0,0,.2) 35%,rgba(0, 0, 0, 0.05) 35%);
+}
+
+.rtl.woocommerce .woocommerce-pagination ul.page-numbers li, .rtl.woocommerce-page .woocommerce-pagination ul.page-numbers li {
+    float: right !important;
+}
+.rtl.woocommerce a.next.page-numbers, .rtl.woocommerce a.prev.page-numbers {
+    transform: rotate(180deg);
+}
+.rtl .nav.club-details-tab-nav>li>a {
+    margin: 0 0px 0 30px;
+    padding: 0 5px;
+}
+.rtl .club-jersey .pull-left {
+    float: right!important;
+    padding-right: 0 !important;
+}
+.rtl .matech-details-team.media.text-right {
+    text-align: left;
+}
+.rtl .match-timeline-inner .time {
+    text-align: right;
+}
+.rtl.woocommerce ul.product_list_widget li img, .woocommerce-page ul.product_list_widget li img {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+.rtl figure.woocommerce-product-gallery__wrapper {
+    width: 40%;
+    margin-bottom: 30px;
+    float: right;
+}
+.rtl.woocommerce div.product form.cart div.quantity, 
+.rtl.woocommerce-page div.product form.cart div.quantity, 
+.rtl.woocommerce #content div.product form.cart div.quantity, 
+.rtl.woocommerce-page #content div.product form.cart div.quantity {
+    float: right;
+    margin: 0 0px 0 10px;
+}
+.rtl.woocommerce div.product form.cart .button, 
+.rtl.woocommerce-page div.product form.cart .button, 
+.rtl.woocommerce #content div.product form.cart .button, 
+.rtl.woocommerce-page #content div.product form.cart .button {
+    float: right;
+}
+.rtl .woocommerce-product-gallery__wrapper .thumbnails .woocommerce-product-gallery__image {
+    width: 30.2% !important;
+    float: left;
+    margin-right: 10px;
+}
+.rtl.woocommerce div.product div.images img, 
+.rtl.woocommerce-page div.product div.images img, 
+.rtl.woocommerce #content div.product div.images img, 
+.rtl.woocommerce-page #content div.product div.images img {
+    display: block;
+    border: 1px solid #f2f2f2;
+    width: 100%;
+    height: auto;
+    -webkit-transition: all ease-in-out 0.2s;
+    -moz-transition: all ease-in-out 0.2s;
+    -o-transition: all ease-in-out 0.2s;
+    transition: all ease-in-out 0.2s;
+}
+.rtl.woocommerce #content div.product div.thumbnails a, 
+.rtl.woocommerce div.product div.thumbnails a, 
+.rtl.woocommerce-page #content div.product div.thumbnails a, 
+.rtl.woocommerce-page div.product div.thumbnails a {
+    float: left;
+    width: 100%;
+    margin-right: 3.8%;
+    margin-bottom: 1em;
+}
+
+.rtl.woocommerce .woocommerce-message .button, 
+.rtl.woocommerce-page .woocommerce-message .button{
+    float: left;
+}
+.woocommerce table.shop_table tbody:first-child tr:first-child td, 
+.woocommerce .cart-collaterals .cart_totals tr td, 
+.woocommerce-page .cart-collaterals .cart_totals tr td {
+    border-top: 0;
+    padding: 10px;
+}
+body.rtl .match-place{
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+@media (max-width: 767px) {
+    .image-wrap {
+        direction: ltr;
+        float: right;
+        display: inline-table;
+    }
+    .themeum-latest-match-layout2 #home-countdown-timer {
+        float: right;
+    }
+
+}

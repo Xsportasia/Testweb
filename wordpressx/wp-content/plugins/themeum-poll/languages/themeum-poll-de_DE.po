@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeum Poll\n"
+"POT-Creation-Date: 2015-06-19 14:20+0600\n"
+"PO-Revision-Date: 2015-06-19 14:20+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/menu.php:16
+msgid "Poll Reasult"
+msgstr ""
+
+#: assets/menu.php:27
+msgid "Poll Result"
+msgstr ""
+
+#: assets/menu.php:123
+msgid "Poll Name"
+msgstr ""
+
+#: assets/menu.php:124
+msgid "Total Participant"
+msgstr ""
+
+#: assets/menu.php:125
+msgid "First Poll"
+msgstr ""
+
+#: assets/menu.php:126
+msgid "Second Poll"
+msgstr ""
+
+#: assets/menu.php:127
+msgid "Third Poll"
+msgstr ""
+
+#: post-type/meta-box/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:244
+msgid "+"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:257
+msgid "&#8211;"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:18
+#: post-type/meta-box/inc/fields/autocomplete.php:83
+#: post-type/meta-box/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:75
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:75
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:103
+#: post-type/meta-box/inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:104
+#: post-type/meta-box/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:40
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:111
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:112
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:108
+#: post-type/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:109
+#: post-type/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:70
+#: post-type/meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:20
+msgid "Value"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:71
+#: post-type/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "All"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "None"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:49
+msgid "Poll Question Settings"
+msgstr ""
+
+#: post-type/meta_box.php:67 post-type/meta_box.php:69
+msgid "Poll Question Set"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:25
+#: post-type/themeum-post-type-poll.php:26
+msgctxt "Themeum Poll"
+msgid "Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:27 shortcodes/poll-shortcode.php:34
+msgid "Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:28
+msgid "Parent Themeum Poll:"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:29
+msgid "All Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:30
+msgid "View Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:31
+msgid "Add New Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:32
+msgid "New Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:33
+msgid "Edit Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:34
+msgid "Update Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:35
+msgid "Search Themeum Poll"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:36
+msgid "No article found"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:37
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:74
+#, php-format
+msgid "Themeum Poll updated. <a href=\"%s\">View Themeum Poll</a>"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:75
+msgid "Custom field updated."
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:76
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:77
+msgid "Themeum Poll updated."
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:78
+#, php-format
+msgid "Themeum Poll restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:79
+#, php-format
+msgid "Themeum Poll published. <a href=\"%s\">View Themeum Poll</a>"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:80
+msgid "Themeum Poll saved."
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:81
+#, php-format
+msgid ""
+"Themeum Poll submitted. <a target=\"_blank\" href=\"%s\">Preview Themeum "
+"Poll</a>"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:82
+#, php-format
+msgid ""
+"Themeum Poll scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Themeum Poll</a>"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:82
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-type/themeum-post-type-poll.php:83
+#, php-format
+msgid ""
+"Themeum Poll draft updated. <a target=\"_blank\" href=\"%s\">Preview Themeum "
+"Poll</a>"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:32
+msgid "Poll"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:35
+msgid "Themeum"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:40
+msgid "Pull Name"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:42
+msgid "Select Poll"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:48
+msgid "Insert Background Image"
+msgstr ""
+
+#: shortcodes/poll-shortcode.php:54
+msgid "Insert Hover Background Image"
+msgstr ""
+
+#: themeum-poll.php:87
+msgid "Submit"
+msgstr ""
+
+#: themeum-poll.php:147
+msgid "Result"
+msgstr ""
+
+#: themeum-poll.php:147
+msgid "Total Vote"
+msgstr ""

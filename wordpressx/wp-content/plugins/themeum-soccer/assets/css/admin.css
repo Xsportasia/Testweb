@@ -1,0 +1,17 @@
+/*
+* Plugin Name: Themeum Soccer
+* Plugin URI: http://www.themeum.com/item/themeum-soccer
+* Author: Themeum
+* Author URI: http://www.themeum.com
+* License - GNU/GPL V2 or Later
+* Description: Themeum Soccer is a Soccer plugin.
+* Version: 1.1
+*/
+.rwmb-field.rwmb-group-wrapper {
+	border: 1px solid rgb(204, 204, 204);
+	padding: 20px 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}

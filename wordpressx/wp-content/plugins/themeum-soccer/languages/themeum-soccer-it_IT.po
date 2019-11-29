@@ -1,0 +1,1783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeum Soccer\n"
+"POT-Creation-Date: 2015-10-08 13:01+0600\n"
+"PO-Revision-Date: 2015-10-08 13:01+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: post-type/meta-box/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:244
+msgid "+"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:257
+msgid "&#8211;"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:18
+#: post-type/meta-box/inc/fields/autocomplete.php:83
+#: post-type/meta-box/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:75
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:75
+#: shortcodes/themeum-point-table.php:35
+#: templates/template-point_table.php:101
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:103
+#: post-type/meta-box/inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:104
+#: post-type/meta-box/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:40
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:111
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:112
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:108
+#: post-type/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:109
+#: post-type/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:70
+#: post-type/meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:20
+msgid "Value"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:71
+#: post-type/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "All"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:207
+msgid "None"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:51
+msgid "Player Profile Settings"
+msgstr ""
+
+#: post-type/meta_box.php:69 post-type/meta_box.php:71
+msgid "Top Player"
+msgstr ""
+
+#: post-type/meta_box.php:77 post-type/meta_box.php:79
+msgid "Full Name"
+msgstr ""
+
+#: post-type/meta_box.php:86
+msgid "Player Image"
+msgstr ""
+
+#: post-type/meta_box.php:93
+msgid "Select Position"
+msgstr ""
+
+#: post-type/meta_box.php:95
+msgid "Select Position of the Player"
+msgstr ""
+
+#: post-type/meta_box.php:102 post-type/meta_box.php:104
+msgid "Jersey Number"
+msgstr ""
+
+#: post-type/meta_box.php:111
+msgid "Match Played"
+msgstr ""
+
+#: post-type/meta_box.php:113
+msgid "Match Played(ex: 32)"
+msgstr ""
+
+#: post-type/meta_box.php:120
+msgid "Present Club Logo"
+msgstr ""
+
+#: post-type/meta_box.php:127
+msgid "<b>Player Info</b>"
+msgstr ""
+
+#: post-type/meta_box.php:132
+msgid "Player Information Level"
+msgstr ""
+
+#: post-type/meta_box.php:134
+msgid "Player Information Level(ex: Weight)"
+msgstr ""
+
+#: post-type/meta_box.php:140
+msgid "Player Information Data"
+msgstr ""
+
+#: post-type/meta_box.php:142
+msgid "Player Information Data(ex: 65kg)"
+msgstr ""
+
+#: post-type/meta_box.php:153
+msgid "<b>Player Statistics</b>"
+msgstr ""
+
+#: post-type/meta_box.php:158
+msgid "Player Statistics Level"
+msgstr ""
+
+#: post-type/meta_box.php:160
+msgid "Player Statistics Level(ex: Total Matches)"
+msgstr ""
+
+#: post-type/meta_box.php:166
+msgid "Player Statistics Statistics"
+msgstr ""
+
+#: post-type/meta_box.php:168
+msgid "Player Statistics statistics(ex: 62)"
+msgstr ""
+
+#: post-type/meta_box.php:179 post-type/meta_box.php:181
+#: post-type/meta_box.php:307 post-type/meta_box.php:309
+msgid "Social Profile(facebook)"
+msgstr ""
+
+#: post-type/meta_box.php:186 post-type/meta_box.php:188
+#: post-type/meta_box.php:314 post-type/meta_box.php:316
+msgid "Social Profile(twitter)"
+msgstr ""
+
+#: post-type/meta_box.php:193 post-type/meta_box.php:195
+#: post-type/meta_box.php:321 post-type/meta_box.php:323
+msgid "Social Profile(google_plus)"
+msgstr ""
+
+#: post-type/meta_box.php:200 post-type/meta_box.php:202
+#: post-type/meta_box.php:328 post-type/meta_box.php:330
+msgid "Social Profile(instagram)"
+msgstr ""
+
+#: post-type/meta_box.php:207 post-type/meta_box.php:209
+#: post-type/meta_box.php:335 post-type/meta_box.php:337
+msgid "Social Profile(youtube)"
+msgstr ""
+
+#: post-type/meta_box.php:214 post-type/meta_box.php:216
+#: post-type/meta_box.php:342 post-type/meta_box.php:344
+msgid "Social Profile(vimeo)"
+msgstr ""
+
+#: post-type/meta_box.php:233
+msgid "Club Settings"
+msgstr ""
+
+#: post-type/meta_box.php:251
+msgid "Club Banner"
+msgstr ""
+
+#: post-type/meta_box.php:259
+msgid "Club Type"
+msgstr ""
+
+#: post-type/meta_box.php:261
+msgid "Club Type Ex. Football"
+msgstr ""
+
+#: post-type/meta_box.php:268
+msgid "Squad List"
+msgstr ""
+
+#: post-type/meta_box.php:282
+msgid "<b>Club Information</b>"
+msgstr ""
+
+#: post-type/meta_box.php:287
+msgid "Club Information Level"
+msgstr ""
+
+#: post-type/meta_box.php:289
+msgid "Club Information Level(ex: Name)"
+msgstr ""
+
+#: post-type/meta_box.php:295
+msgid "Club Information Data"
+msgstr ""
+
+#: post-type/meta_box.php:297
+msgid "Club Information Data(ex: Barcelona)"
+msgstr ""
+
+#: post-type/meta_box.php:351
+msgid "<b>Honours Fields</b>"
+msgstr ""
+
+#: post-type/meta_box.php:356 post-type/meta_box.php:358
+msgid "League Title Number"
+msgstr ""
+
+#: post-type/meta_box.php:363 post-type/meta_box.php:365
+msgid "League Title"
+msgstr ""
+
+#: post-type/meta_box.php:370
+msgid "Year List"
+msgstr ""
+
+#: post-type/meta_box.php:372
+msgid "Year List (ex: 2011,2013)"
+msgstr ""
+
+#: post-type/meta_box.php:383
+msgid "Photo Gallery Image Upload"
+msgstr ""
+
+#: post-type/meta_box.php:391
+msgid "<b>Jersey Kit</b>"
+msgstr ""
+
+#: post-type/meta_box.php:396
+msgid "Jersey Type"
+msgstr ""
+
+#: post-type/meta_box.php:398
+msgid "Jersey Type(ex: Home Kit)"
+msgstr ""
+
+#: post-type/meta_box.php:405
+msgid "Jersey Image URL"
+msgstr ""
+
+#: post-type/meta_box.php:407
+msgid "Jersey Image URL Description"
+msgstr ""
+
+#: post-type/meta_box.php:427
+msgid "Fixture Reasult Settings"
+msgstr ""
+
+#: post-type/meta_box.php:440
+msgid "<b>Team 1</b>"
+msgstr ""
+
+#: post-type/meta_box.php:445 post-type/meta_box.php:447
+#: post-type/meta_box.php:504 post-type/meta_box.php:506
+#: post-type/meta_box.php:595 post-type/meta_box.php:936
+#: post-type/meta_box.php:938
+msgid "Club Name"
+msgstr ""
+
+#: post-type/meta_box.php:458 post-type/meta_box.php:460
+#: post-type/meta_box.php:518 post-type/meta_box.php:520
+#: post-type/meta_box.php:676 post-type/meta_box.php:678
+#: post-type/meta_box.php:740 post-type/meta_box.php:742
+#: post-type/meta_box.php:810 post-type/meta_box.php:812
+msgid "Player List"
+msgstr ""
+
+#: post-type/meta_box.php:471 post-type/meta_box.php:473
+#: post-type/meta_box.php:532 post-type/meta_box.php:534
+msgid "Substitutes Player List"
+msgstr ""
+
+#: post-type/meta_box.php:485 post-type/meta_box.php:487
+#: post-type/meta_box.php:546 post-type/meta_box.php:548
+msgid "Club Formation"
+msgstr ""
+
+#: post-type/meta_box.php:498
+msgid "<b>Team 2</b>"
+msgstr ""
+
+#: post-type/meta_box.php:562 post-type/meta_box.php:1130
+msgid "Match Datetime"
+msgstr ""
+
+#: post-type/meta_box.php:573
+msgid "Time GMT"
+msgstr ""
+
+#: post-type/meta_box.php:577
+msgid "Time GMT Ex(GMT 6+)"
+msgstr ""
+
+#: post-type/meta_box.php:583
+msgid "Final Goal"
+msgstr ""
+
+#: post-type/meta_box.php:587
+msgid "Final Goal Team1:Team2 Ex(3:2)"
+msgstr ""
+
+#: post-type/meta_box.php:593
+msgid "Home Ground Club Name"
+msgstr ""
+
+#: post-type/meta_box.php:610
+msgid "<b>Match Result</b>"
+msgstr ""
+
+#: post-type/meta_box.php:618 post-type/meta_box.php:658
+#: post-type/meta_box.php:722 post-type/meta_box.php:850
+msgid "Team 1"
+msgstr ""
+
+#: post-type/meta_box.php:620
+msgid "Put Here Team 1 Data"
+msgstr ""
+
+#: post-type/meta_box.php:626 post-type/meta_box.php:785
+#: post-type/meta_box.php:1072 shortcodes/themeum-blank-fixture.php:141
+#: shortcodes/themeum-blank-fixture.php:169
+msgid "Select Type"
+msgstr ""
+
+#: post-type/meta_box.php:633 post-type/meta_box.php:659
+#: post-type/meta_box.php:723 post-type/meta_box.php:851
+msgid "Team 2"
+msgstr ""
+
+#: post-type/meta_box.php:635
+msgid "Put Here Team 2 Data"
+msgstr ""
+
+#: post-type/meta_box.php:646
+msgid "<b>Goal Timing And Goal Details</b>"
+msgstr ""
+
+#: post-type/meta_box.php:654 post-type/meta_box.php:662
+#: post-type/meta_box.php:718 post-type/meta_box.php:726
+#: post-type/meta_box.php:846 post-type/meta_box.php:854
+msgid "Select Team"
+msgstr ""
+
+#: post-type/meta_box.php:667 post-type/meta_box.php:731
+msgid "Time of Goal"
+msgstr ""
+
+#: post-type/meta_box.php:669 post-type/meta_box.php:702
+#: post-type/meta_box.php:733
+msgid "Time of Goal (ex: 45) in minutes"
+msgstr ""
+
+#: post-type/meta_box.php:700
+msgid "Extra Time"
+msgstr ""
+
+#: post-type/meta_box.php:710
+msgid "<b>Extra Timing Goal:</b>"
+msgstr ""
+
+#: post-type/meta_box.php:768
+msgid "<b>Match Timeline</b>"
+msgstr ""
+
+#: post-type/meta_box.php:776 post-type/meta_box.php:837
+msgid "Timeline Time"
+msgstr ""
+
+#: post-type/meta_box.php:778 post-type/meta_box.php:839
+msgid "Timeline Time (ex: 45) in minutes"
+msgstr ""
+
+#: post-type/meta_box.php:789
+msgid "Yellow Card"
+msgstr ""
+
+#: post-type/meta_box.php:790
+msgid "Double Yellow"
+msgstr ""
+
+#: post-type/meta_box.php:791
+msgid "Red Card"
+msgstr ""
+
+#: post-type/meta_box.php:792
+msgid "Free Kick"
+msgstr ""
+
+#: post-type/meta_box.php:793
+msgid "Panalty"
+msgstr ""
+
+#: post-type/meta_box.php:794
+msgid "Corner Kick"
+msgstr ""
+
+#: post-type/meta_box.php:795 post-type/meta_box.php:1140
+#: post-type/meta_box.php:1142
+msgid "Goal"
+msgstr ""
+
+#: post-type/meta_box.php:796
+msgid "Goal Shot"
+msgstr ""
+
+#: post-type/meta_box.php:797
+msgid "Foul"
+msgstr ""
+
+#: post-type/meta_box.php:798
+msgid "Handball"
+msgstr ""
+
+#: post-type/meta_box.php:799
+msgid "Start First Half"
+msgstr ""
+
+#: post-type/meta_box.php:800
+msgid "Start Second Half"
+msgstr ""
+
+#: post-type/meta_box.php:801
+msgid "Throw"
+msgstr ""
+
+#: post-type/meta_box.php:802
+msgid "Off Side"
+msgstr ""
+
+#: post-type/meta_box.php:803
+msgid "Extra Time 1"
+msgstr ""
+
+#: post-type/meta_box.php:804
+msgid "Extra Time 2"
+msgstr ""
+
+#: post-type/meta_box.php:830
+msgid "<b>Match Substitutes</b>"
+msgstr ""
+
+#: post-type/meta_box.php:860 post-type/meta_box.php:862
+msgid "Player in(Substitutes)"
+msgstr ""
+
+#: post-type/meta_box.php:875 post-type/meta_box.php:877
+msgid "Player Out(Substitutes)"
+msgstr ""
+
+#: post-type/meta_box.php:908
+msgid "Point Table Settings"
+msgstr ""
+
+#: post-type/meta_box.php:929
+msgid "<b>Point Table Setting</b>"
+msgstr ""
+
+#: post-type/meta_box.php:951
+msgid "Games Played(P)"
+msgstr ""
+
+#: post-type/meta_box.php:953
+msgid "Total Number of Games Played(P)"
+msgstr ""
+
+#: post-type/meta_box.php:960
+msgid "Games Won(W)"
+msgstr ""
+
+#: post-type/meta_box.php:962
+msgid "Total Number of Games Won(W)"
+msgstr ""
+
+#: post-type/meta_box.php:969
+msgid "Games Drown(D)"
+msgstr ""
+
+#: post-type/meta_box.php:971
+msgid "Total Number of Games Drown(D)"
+msgstr ""
+
+#: post-type/meta_box.php:978
+msgid "Games Lost(L)"
+msgstr ""
+
+#: post-type/meta_box.php:980
+msgid "Total Number of Games Lost(L)"
+msgstr ""
+
+#: post-type/meta_box.php:987
+msgid "Goals Scored(GS)"
+msgstr ""
+
+#: post-type/meta_box.php:989
+msgid "Total Number of Goals Scored(GS)"
+msgstr ""
+
+#: post-type/meta_box.php:996
+msgid "Goals Against(GA)"
+msgstr ""
+
+#: post-type/meta_box.php:998
+msgid "Total Number of Goals Against(GA)"
+msgstr ""
+
+#: post-type/meta_box.php:1005
+msgid "Goals Difference(+/-)"
+msgstr ""
+
+#: post-type/meta_box.php:1007
+msgid "Total Number of Goals Difference(+/-)"
+msgstr ""
+
+#: post-type/meta_box.php:1014
+msgid "Points(Pts)"
+msgstr ""
+
+#: post-type/meta_box.php:1016
+msgid "Total Number of Points(Pts)"
+msgstr ""
+
+#: post-type/meta_box.php:1050
+msgid "Slider Settings"
+msgstr ""
+
+#: post-type/meta_box.php:1076
+msgid "Classic Description"
+msgstr ""
+
+#: post-type/meta_box.php:1077 shortcodes/themeum-match-reasult.php:118
+msgid "Match Reasult"
+msgstr ""
+
+#: post-type/meta_box.php:1078
+msgid "Upcoming Matches"
+msgstr ""
+
+#: post-type/meta_box.php:1086
+msgid "Slider Type"
+msgstr ""
+
+#: post-type/meta_box.php:1090
+msgid "ex: FIFA World Cup"
+msgstr ""
+
+#: post-type/meta_box.php:1095
+msgid "<b>Match Reasult/Upcoming Matches</b>"
+msgstr ""
+
+#: post-type/meta_box.php:1098
+msgid "Match Reasult/Upcoming Matches"
+msgstr ""
+
+#: post-type/meta_box.php:1102
+msgid "Team Name 1"
+msgstr ""
+
+#: post-type/meta_box.php:1104 post-type/meta_box.php:1118
+msgid "Team Name"
+msgstr ""
+
+#: post-type/meta_box.php:1116
+msgid "Team Name 2"
+msgstr ""
+
+#: post-type/meta_box.php:1145
+msgid "Goal Team1:Team2 Ex(3:2)"
+msgstr ""
+
+#: post-type/meta_box.php:1154
+msgid "<b>Classic Description</b>"
+msgstr ""
+
+#: post-type/meta_box.php:1160
+msgid "Short Description:"
+msgstr ""
+
+#: post-type/meta_box.php:1162
+msgid "Put Here Short Description:"
+msgstr ""
+
+#: post-type/themeum-club.php:14 post-type/themeum-club.php:15
+msgctxt "Club"
+msgid "Club"
+msgstr ""
+
+#: post-type/themeum-club.php:16
+msgid "Club"
+msgstr ""
+
+#: post-type/themeum-club.php:17
+msgid "Parent Club:"
+msgstr ""
+
+#: post-type/themeum-club.php:18
+msgid "All Club"
+msgstr ""
+
+#: post-type/themeum-club.php:19
+msgid "View Club"
+msgstr ""
+
+#: post-type/themeum-club.php:20
+msgid "Add New Club"
+msgstr ""
+
+#: post-type/themeum-club.php:21
+msgid "New Club"
+msgstr ""
+
+#: post-type/themeum-club.php:22
+msgid "Edit Club"
+msgstr ""
+
+#: post-type/themeum-club.php:23
+msgid "Update Club"
+msgstr ""
+
+#: post-type/themeum-club.php:24
+msgid "Search Club"
+msgstr ""
+
+#: post-type/themeum-club.php:25 post-type/themeum-fixture-result.php:25
+#: post-type/themeum-player.php:25 post-type/themeum-point-table.php:25
+#: post-type/themeum-slider.php:25
+msgid "No article found"
+msgstr ""
+
+#: post-type/themeum-club.php:26 post-type/themeum-fixture-result.php:26
+#: post-type/themeum-player.php:26 post-type/themeum-point-table.php:26
+#: post-type/themeum-slider.php:26
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/themeum-club.php:62
+#, php-format
+msgid "Club updated. <a href=\"%s\">View Club</a>"
+msgstr ""
+
+#: post-type/themeum-club.php:63 post-type/themeum-fixture-result.php:60
+#: post-type/themeum-player.php:63 post-type/themeum-point-table.php:63
+#: post-type/themeum-slider.php:63
+msgid "Custom field updated."
+msgstr ""
+
+#: post-type/themeum-club.php:64 post-type/themeum-fixture-result.php:61
+#: post-type/themeum-player.php:64 post-type/themeum-point-table.php:64
+#: post-type/themeum-slider.php:64
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-type/themeum-club.php:65
+msgid "Club updated."
+msgstr ""
+
+#: post-type/themeum-club.php:66
+#, php-format
+msgid "Club restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-club.php:67
+#, php-format
+msgid "Club published. <a href=\"%s\">View Club</a>"
+msgstr ""
+
+#: post-type/themeum-club.php:68
+msgid "Club saved."
+msgstr ""
+
+#: post-type/themeum-club.php:69
+#, php-format
+msgid "Club submitted. <a target=\"_blank\" href=\"%s\">Preview Club</a>"
+msgstr ""
+
+#: post-type/themeum-club.php:70
+#, php-format
+msgid ""
+"Club scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Club</a>"
+msgstr ""
+
+#: post-type/themeum-club.php:70 post-type/themeum-fixture-result.php:67
+#: post-type/themeum-player.php:70 post-type/themeum-point-table.php:70
+#: post-type/themeum-slider.php:70
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-type/themeum-club.php:71
+#, php-format
+msgid "Club draft updated. <a target=\"_blank\" href=\"%s\">Preview Club</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:14
+#: post-type/themeum-fixture-result.php:15
+msgctxt "Fixture & Reasult"
+msgid "Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:16
+msgid "Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:17
+msgid "Parent Fixture & Reasult:"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:18
+msgid "All Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:19
+msgid "View Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:20
+msgid "Add New Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:21
+msgid "New Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:22
+msgid "Edit Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:23
+msgid "Update Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:24
+msgid "Search Fixture & Reasult"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:59
+#, php-format
+msgid "Fixture & Reasult updated. <a href=\"%s\">View Fixture & Reasult</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:62
+msgid "Fixture & Reasult updated."
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:63
+#, php-format
+msgid "Fixture & Reasult restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:64
+#, php-format
+msgid "Fixture & Reasult published. <a href=\"%s\">View Fixture & Reasult</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:65
+msgid "Fixture & Reasult saved."
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:66
+#, php-format
+msgid ""
+"Fixture & Reasult submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"Fixture & Reasult</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:67
+#, php-format
+msgid ""
+"Fixture & Reasult scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Fixture & Reasult</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:68
+#, php-format
+msgid ""
+"Fixture & Reasult draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Fixture & Reasult</a>"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:88
+#: post-type/themeum-point-table.php:90
+msgctxt "taxonomy general name"
+msgid "Group Categories"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:89
+#: post-type/themeum-point-table.php:91
+msgctxt "taxonomy singular name"
+msgid "Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:90
+#: post-type/themeum-point-table.php:92
+msgid "Search Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:91
+#: post-type/themeum-point-table.php:93
+msgid "All Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:92
+#: post-type/themeum-point-table.php:94
+msgid "Group Parent Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:93
+#: post-type/themeum-point-table.php:95
+msgid "Group Parent Category:"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:94
+#: post-type/themeum-point-table.php:96
+msgid "Edit Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:95
+#: post-type/themeum-point-table.php:97
+msgid "Update Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:96
+#: post-type/themeum-point-table.php:98
+msgid "Add New Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:97
+#: post-type/themeum-point-table.php:99
+msgid "New Group Category Name"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:98
+#: post-type/themeum-point-table.php:100
+msgid "Group Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:127
+msgctxt "taxonomy general name"
+msgid "League Categories"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:128
+msgctxt "taxonomy singular name"
+msgid "League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:129
+msgid "Search League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:130
+msgid "All League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:131
+msgid "League Parent Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:132
+msgid "League Parent Category:"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:133
+msgid "Edit League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:134
+msgid "Update League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:135
+msgid "Add New League Category"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:136
+msgid "New League Category Name"
+msgstr ""
+
+#: post-type/themeum-fixture-result.php:137
+msgid "League Category"
+msgstr ""
+
+#: post-type/themeum-player.php:14 post-type/themeum-player.php:15
+msgctxt "Player"
+msgid "Player"
+msgstr ""
+
+#: post-type/themeum-player.php:16
+msgid "Player"
+msgstr ""
+
+#: post-type/themeum-player.php:17
+msgid "Parent Player:"
+msgstr ""
+
+#: post-type/themeum-player.php:18
+msgid "All Player"
+msgstr ""
+
+#: post-type/themeum-player.php:19
+msgid "View Player"
+msgstr ""
+
+#: post-type/themeum-player.php:20
+msgid "Add New Player"
+msgstr ""
+
+#: post-type/themeum-player.php:21
+msgid "New Player"
+msgstr ""
+
+#: post-type/themeum-player.php:22
+msgid "Edit Player"
+msgstr ""
+
+#: post-type/themeum-player.php:23
+msgid "Update Player"
+msgstr ""
+
+#: post-type/themeum-player.php:24
+msgid "Search Player"
+msgstr ""
+
+#: post-type/themeum-player.php:62
+#, php-format
+msgid "Player updated. <a href=\"%s\">View Player</a>"
+msgstr ""
+
+#: post-type/themeum-player.php:65
+msgid "Player updated."
+msgstr ""
+
+#: post-type/themeum-player.php:66
+#, php-format
+msgid "Player restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-player.php:67
+#, php-format
+msgid "Player published. <a href=\"%s\">View Player</a>"
+msgstr ""
+
+#: post-type/themeum-player.php:68
+msgid "Player saved."
+msgstr ""
+
+#: post-type/themeum-player.php:69
+#, php-format
+msgid "Player submitted. <a target=\"_blank\" href=\"%s\">Preview Player</a>"
+msgstr ""
+
+#: post-type/themeum-player.php:70
+#, php-format
+msgid ""
+"Player scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Player</a>"
+msgstr ""
+
+#: post-type/themeum-player.php:71
+#, php-format
+msgid ""
+"Player draft updated. <a target=\"_blank\" href=\"%s\">Preview Player</a>"
+msgstr ""
+
+#: post-type/themeum-point-table.php:14 post-type/themeum-point-table.php:15
+msgctxt "Point Table"
+msgid "Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:16 shortcodes/themeum-point-table.php:67
+msgid "Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:17
+msgid "Parent Point Table:"
+msgstr ""
+
+#: post-type/themeum-point-table.php:18
+msgid "All Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:19
+msgid "View Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:20
+msgid "Add New Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:21
+msgid "New Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:22
+msgid "Edit Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:23
+msgid "Update Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:24
+msgid "Search Point Table"
+msgstr ""
+
+#: post-type/themeum-point-table.php:62
+#, php-format
+msgid "Point Table updated. <a href=\"%s\">View Point Table</a>"
+msgstr ""
+
+#: post-type/themeum-point-table.php:65
+msgid "Point Table updated."
+msgstr ""
+
+#: post-type/themeum-point-table.php:66
+#, php-format
+msgid "Point Table restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-point-table.php:67
+#, php-format
+msgid "Point Table published. <a href=\"%s\">View Point Table</a>"
+msgstr ""
+
+#: post-type/themeum-point-table.php:68
+msgid "Point Table saved."
+msgstr ""
+
+#: post-type/themeum-point-table.php:69
+#, php-format
+msgid ""
+"Point Table submitted. <a target=\"_blank\" href=\"%s\">Preview Point Table</"
+"a>"
+msgstr ""
+
+#: post-type/themeum-point-table.php:70
+#, php-format
+msgid ""
+"Point Table scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Point Table</a>"
+msgstr ""
+
+#: post-type/themeum-point-table.php:71
+#, php-format
+msgid ""
+"Point Table draft updated. <a target=\"_blank\" href=\"%s\">Preview Point "
+"Table</a>"
+msgstr ""
+
+#: post-type/themeum-slider.php:14 post-type/themeum-slider.php:15
+msgctxt "Slider"
+msgid "Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:16
+msgid "Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:17
+msgid "Parent Slider:"
+msgstr ""
+
+#: post-type/themeum-slider.php:18
+msgid "All Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:19
+msgid "View Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:20
+msgid "Add New Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:21
+msgid "New Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:22
+msgid "Edit Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:23
+msgid "Update Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:24
+msgid "Search Slider"
+msgstr ""
+
+#: post-type/themeum-slider.php:62
+#, php-format
+msgid "Slider updated. <a href=\"%s\">View Slider</a>"
+msgstr ""
+
+#: post-type/themeum-slider.php:65
+msgid "Slider updated."
+msgstr ""
+
+#: post-type/themeum-slider.php:66
+#, php-format
+msgid "Slider restored to revision from %s"
+msgstr ""
+
+#: post-type/themeum-slider.php:67
+#, php-format
+msgid "Slider published. <a href=\"%s\">View Slider</a>"
+msgstr ""
+
+#: post-type/themeum-slider.php:68
+msgid "Slider saved."
+msgstr ""
+
+#: post-type/themeum-slider.php:69
+#, php-format
+msgid "Slider submitted. <a target=\"_blank\" href=\"%s\">Preview Slider</a>"
+msgstr ""
+
+#: post-type/themeum-slider.php:70
+#, php-format
+msgid ""
+"Slider scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Slider</a>"
+msgstr ""
+
+#: post-type/themeum-slider.php:71
+#, php-format
+msgid ""
+"Slider draft updated. <a target=\"_blank\" href=\"%s\">Preview Slider</a>"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:122
+msgid "Blank Fixture"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:127
+#: shortcodes/themeum-club-group.php:137
+#: shortcodes/themeum-club-ranking.php:106 shortcodes/themeum-league.php:168
+#: shortcodes/themeum-match-fixture.php:108
+#: shortcodes/themeum-match-reasult.php:123
+#: shortcodes/themeum-point-table.php:72
+#: shortcodes/themeum-recent-results.php:162
+#: shortcodes/themeum-slider-2.php:185 shortcodes/themeum-slider.php:84
+#: shortcodes/themeum-top-player.php:100 shortcodes/themeum-video-play.php:47
+msgid "Themeum"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:133
+#: shortcodes/themeum-blank-fixture.php:135
+#: shortcodes/themeum-match-fixture.php:113
+#: shortcodes/themeum-match-fixture.php:115
+msgid "Title of the Table"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:149
+msgid "Team 1 Name(Custom)"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:151
+#: shortcodes/themeum-blank-fixture.php:178
+msgid "Brazil"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:160
+msgid "Team Name 1(Dynamic)"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:162
+#: shortcodes/themeum-blank-fixture.php:188
+#: shortcodes/themeum-blank-fixture.php:221
+msgid "Eelect your Team Name"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:176
+msgid "Team 2 Name(Custom)"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:186
+msgid "Team Name 2(Dynamic)"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:195
+msgid "Date"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:197
+msgid "23 April, 13:00 EST"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:203
+msgid "Venue Type"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:210
+msgid "Venue"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:212
+msgid "Allez"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:219
+msgid "Venue Name"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:228
+msgid "Padding"
+msgstr ""
+
+#: shortcodes/themeum-blank-fixture.php:230
+msgid "ex: 60px 0px"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:132
+msgid "Club Group"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:142
+#: shortcodes/themeum-match-reasult.php:128
+msgid "Put Here Title"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:144 shortcodes/themeum-league.php:175
+#: shortcodes/themeum-league.php:186 shortcodes/themeum-match-reasult.php:130
+msgid "Put here Title"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:150 shortcodes/themeum-club-group.php:152
+#: shortcodes/themeum-match-reasult.php:136
+#: shortcodes/themeum-match-reasult.php:138
+msgid "Put here League Slug"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:158 shortcodes/themeum-club-group.php:160
+msgid "Put here Group ID"
+msgstr ""
+
+#: shortcodes/themeum-club-group.php:166
+msgid "Number of Column"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:101
+msgid "Club Ranking"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:105
+#: shortcodes/themeum-recent-results.php:161
+#: shortcodes/themeum-slider-2.php:184 shortcodes/themeum-video-play.php:46
+msgid "Widget Title Heading"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:111
+#: shortcodes/themeum-recent-results.php:167
+#: shortcodes/themeum-video-play.php:52
+msgid "Title"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:118
+#: shortcodes/themeum-club-ranking.php:120
+#: shortcodes/themeum-point-table.php:77 shortcodes/themeum-point-table.php:79
+msgid "Select Point Table"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:126
+msgid "Number of Ranking Show"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:133
+#: shortcodes/themeum-recent-results.php:202
+#: shortcodes/themeum-video-play.php:101
+msgid "Custom Class "
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:141
+#: shortcodes/themeum-recent-results.php:210
+#: shortcodes/themeum-slider-2.php:205 shortcodes/themeum-top-player.php:120
+msgid "Disable Slider: "
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:143
+#: shortcodes/themeum-recent-results.php:212
+#: shortcodes/themeum-slider-2.php:207 shortcodes/themeum-top-player.php:122
+msgid "Disable"
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:144
+#: shortcodes/themeum-recent-results.php:213
+#: shortcodes/themeum-slider-2.php:208 shortcodes/themeum-top-player.php:123
+msgid "If you want disable slide check this."
+msgstr ""
+
+#: shortcodes/themeum-club-ranking.php:150
+#: shortcodes/themeum-recent-results.php:219
+#: shortcodes/themeum-slider-2.php:214 shortcodes/themeum-top-player.php:128
+msgid "Sliding Time(Milliseconds Ex: 4000)"
+msgstr ""
+
+#: shortcodes/themeum-league.php:163
+msgid "League"
+msgstr ""
+
+#: shortcodes/themeum-league.php:173
+msgid "Put Here Main Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:184
+msgid "Fixture Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:192
+msgid "Select Fixture Page"
+msgstr ""
+
+#: shortcodes/themeum-league.php:194
+msgid "Select The Fixture Page."
+msgstr ""
+
+#: shortcodes/themeum-league.php:204
+msgid "Result Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:206
+msgid "Put here Result Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:212
+msgid "Select Result Page"
+msgstr ""
+
+#: shortcodes/themeum-league.php:214
+msgid "Select The Result Page."
+msgstr ""
+
+#: shortcodes/themeum-league.php:223
+msgid "Standings Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:225
+msgid "Put here Standings Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:231
+msgid "Select Standings Page"
+msgstr ""
+
+#: shortcodes/themeum-league.php:233
+msgid "Select The Standings Page."
+msgstr ""
+
+#: shortcodes/themeum-league.php:242
+msgid "Teams Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:244
+msgid "Put here Teams Title"
+msgstr ""
+
+#: shortcodes/themeum-league.php:250
+msgid "Select Teams Page"
+msgstr ""
+
+#: shortcodes/themeum-league.php:252
+msgid "Select The Teams Page."
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:103
+msgid "Match Fixture"
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:121
+msgid "Leagues Category Slug"
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:123
+msgid "Put here Leagues Category Slug"
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:129
+msgid "Group Category Slug"
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:131
+msgid "Put here Group Category Slug"
+msgstr ""
+
+#: shortcodes/themeum-match-fixture.php:137
+#: shortcodes/themeum-match-reasult.php:160 shortcodes/themeum-slider.php:98
+msgid "Add External Class"
+msgstr ""
+
+#: shortcodes/themeum-match-reasult.php:144
+#: shortcodes/themeum-match-reasult.php:146
+msgid "Put here Group Slug"
+msgstr ""
+
+#: shortcodes/themeum-match-reasult.php:152
+#: shortcodes/themeum-match-reasult.php:154
+msgid "Number of Reasult Show"
+msgstr ""
+
+#: shortcodes/themeum-point-table.php:35
+#: templates/template-point_table.php:101
+msgid "TEAM"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:124
+msgid "vs"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:157
+msgid "Recent Result"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:174
+msgid "Show Number of result"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:181
+msgid "Count Number for Carousel"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:188
+msgid "Group Slug"
+msgstr ""
+
+#: shortcodes/themeum-recent-results.php:195
+msgid "League Slug"
+msgstr ""
+
+#: shortcodes/themeum-slider-2.php:180
+msgid "Slider 2"
+msgstr ""
+
+#: shortcodes/themeum-slider-2.php:190
+msgid "Number of Slide"
+msgstr ""
+
+#: shortcodes/themeum-slider-2.php:197
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/themeum-slider.php:79 shortcodes/themeum-top-player.php:95
+msgid "Top Players"
+msgstr ""
+
+#: shortcodes/themeum-slider.php:90
+msgid "Number of Posts"
+msgstr ""
+
+#: shortcodes/themeum-top-player.php:105
+msgid "Number of Slide Ex. 10"
+msgstr ""
+
+#: shortcodes/themeum-top-player.php:112
+msgid "Image Overlay"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:42
+msgid "Video Play"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:59
+msgid "Youtube Video ID"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:66
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:73
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:80
+msgid "Title Font Wight"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:87
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: shortcodes/themeum-video-play.php:94
+msgid "Title Padding"
+msgstr ""
+
+#: templates/taxonomy-league.php:75
+msgid "Next Match"
+msgstr ""
+
+#: templates/taxonomy-league.php:126
+msgid "Fixtures"
+msgstr ""
+
+#: templates/taxonomy-league.php:127 templates/taxonomy-league.php:252
+msgid "Results"
+msgstr ""
+
+#: templates/taxonomy-league.php:128
+msgid "Standings"
+msgstr ""
+
+#: templates/taxonomy-league.php:129
+msgid "Teams"
+msgstr ""
+
+#: templates/taxonomy-league.php:167
+msgid "Fixture"
+msgstr ""
+
+#: templates/taxonomy-league.php:414
+msgid "Team List"
+msgstr ""
+
+#: templates/template-club.php:107
+msgid "Club History"
+msgstr ""
+
+#: templates/template-club.php:112
+msgid "Squad"
+msgstr ""
+
+#: templates/template-club.php:113
+msgid "Honours"
+msgstr ""
+
+#: templates/template-club.php:114
+msgid "Photos"
+msgstr ""
+
+#: templates/template-club.php:115
+msgid "Jersey"
+msgstr ""
+
+#: templates/template-club.php:168
+msgid "Champion"
+msgstr ""
+
+#: templates/template-club.php:199 templates/template-club.php:225
+msgid "Image"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:270
+msgid "Match Stats"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:271
+msgid "Timeline"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:272
+msgid "Team"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:273
+msgid "Substitutes"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:274
+msgid "Comments"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:393
+msgid "min"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:470
+#: templates/template-fixture_reasult.php:472
+#: templates/template-fixture_reasult.php:475
+#: templates/template-fixture_reasult.php:487
+#: templates/template-fixture_reasult.php:489
+#: templates/template-fixture_reasult.php:492
+#: templates/template-fixture_reasult.php:531
+#: templates/template-fixture_reasult.php:533
+#: templates/template-fixture_reasult.php:536
+#: templates/template-fixture_reasult.php:545
+#: templates/template-fixture_reasult.php:547
+#: templates/template-fixture_reasult.php:550
+#: templates/template-fixture_reasult.php:600
+#: templates/template-fixture_reasult.php:602
+msgid "image"
+msgstr ""
+
+#: templates/template-fixture_reasult.php:634
+msgid "Summary"
+msgstr ""
+
+#: templates/template-player.php:119
+msgid "Matched Played"
+msgstr ""
+
+#: templates/template-player.php:123
+msgid "Career"
+msgstr ""
+
+#: templates/template-player.php:135
+msgid "Overview"
+msgstr ""
+
+#: themeum-soccer.php:121
+msgid "Twitter API Settings"
+msgstr ""
+
+#: themeum-soccer.php:124
+msgid "Twitter API Help"
+msgstr ""
+
+#: themeum-soccer.php:129
+msgid "Consumer Key"
+msgstr ""
+
+#: themeum-soccer.php:133
+msgid "Consumer Secret"
+msgstr ""
+
+#: themeum-soccer.php:137
+msgid "Access Token"
+msgstr ""
+
+#: themeum-soccer.php:141
+msgid "Access Token Secret"
+msgstr ""

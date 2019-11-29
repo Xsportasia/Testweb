@@ -1,0 +1,223 @@
+/*
+Theme Name: wpsoccer
+Theme URI: http://themeum.com/wordpress/wpsoccer
+Author: Themeum
+Author URI: http://themeum.com/
+Description: Soccer Premium Sports Theme.
+Version: 3.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, green, pink, purple, dark, right-sidebar, two-columns, responsive-layout
+Text Domain: themeum
+*/
+
+
+/* mega menu */
+#main-menu .wp-megamenu-wrap .signup-signin a {
+    padding: 3px 15px !important;
+    color: #000 !important;
+    line-height: 24px;
+    border-radius: 2px;
+    font-weight: 300;
+    margin-left: 60px;
+}
+.wpmm-vertical-tabs {
+    background: #000;
+}
+.wpmm-vertical-tabs-nav {
+    background: #191919;
+    border-right: 1px solid #232323;
+}
+ul.wp-megamenu li ul.wp-megamenu-sub-menu .wpmm-vertical-tabs-nav ul li.active {
+    background: #000;
+    border-top: 1px solid #232323;
+    border-bottom: 1px solid #232323;
+}
+
+.spinwarp:after{
+    background: rgba(0, 0, 0, 0.88);
+}
+
+.btn-lg,.btn{
+    border-radius: 0px;
+}
+.gallery-caption{  }
+
+.bypostauthor{  }
+#mailchimp-id{ display:none; }
+
+.woocommerce ul.products li.product, 
+.woocommerce-page ul.products li.product {
+   width: 30.75%;
+   margin-bottom: 30px;
+}
+ul.wp-megamenu .product_list_widget li span.woocommerce-Price-amount {
+    color: #fff;
+}
+.point-table-single .point-table.table-responsive a {
+    color: rgba(0, 0, 0, 0.70);
+}
+.point-table-single .point-table.table-responsive a:hover {
+    color: #fbd930;
+}
+/* Demo3 */
+.style3-wrap .popular-image {
+    display: inline-block;
+    float: left;
+    margin-right: 30px;
+}
+
+.video-style3 .entry-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: -8px 0 16px !important;
+}
+
+.style3-wrapper .themeum-overlay-wrap {
+    margin-bottom: 33px;
+}
+.vc_row[data-vc-full-width].vc_hidden {
+     opacity: 1 !important; 
+     overflow: inherit !important;
+}
+.cross-item-wrap:after {
+    content: "/";
+    width: 40px;
+    height: 40px;
+    background: rgb(250, 211, 43);
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.top-player-wrap{
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 24px;
+    margin-bottom: 12px;
+    padding: 12px 0px 12px 0px;
+    font-weight: 700;
+}
+
+span.total-match-played {
+    text-align: right;
+    float: right;
+}
+
+.top-player-list-cont .icon-bar {
+    height: 3px;
+    width: 30px;
+    display: block;
+    background: #fff;
+    margin-bottom: 3px;
+}
+
+.themeum-recent-result-inner a {
+    color: #fff;
+}
+.carousel-inners .overlay {
+    position: absolute;
+    bottom: 55px;
+    padding: 0px 35px 0px;
+    color: #fff;
+    z-index: 9;
+}
+.carousel-inners .overlay a {
+    color: #fff;
+}
+.themeum-featured-item .overlay h3 a{
+    color: #fff;
+}
+.themeum-featured-item .overlay h3 {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.overlay .entry-category {
+    background: #fad32b;
+    padding: 5px 6px;
+}
+.carousel-inners img{
+    width: 100%;
+}
+.carousel-inners .themeum-featured-item {
+    margin-bottom: 32px;
+}
+.themeum-featured-item .overlay-inner h3 a {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.thum-style2 {
+    width: 95px;
+    float: right;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: -96px;
+}
+.thum-style2 ul li {
+    float: inherit !important;
+    margin-bottom: 23px;
+}
+.thum-style2 .flex-next, .thum-style2 .flex-prev{
+    display: none;
+}
+.thm-gallery-style2 .slides.gallery-thumb-image {
+    display: inline;
+}
+.featured-style-2 .themeum-overlay-wrap.yes img {
+    position: relative;
+    height: 505px;
+}
+.highlight-style4 .themeum-overlay-wrap img {
+    height: 418px !important;
+}
+.highlight-style4r .highlights-style2-item h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0 10px;
+    line-height: 24px;
+}
+.highlight-style4r .highlights-style2-item {
+    border-bottom: none;
+}
+.gallery-post-col-3 {
+    margin-bottom: 30px;
+}
+.homepage5 .dark_mail .mc4wp-form p:after {
+    font-weight: 400;
+    color: #fff;
+}
+.gallery-post-col-6 img.img-responsive.wp-post-image {
+    height: 236px;
+    margin-bottom: 30px;
+}
+.homepage5 h4, .homepage5 p {
+    color: #fff !important;
+    font-weight: 400 !important;
+}
+.homepage5 .dark_mail .mc4wp-form input[type=email] {
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+.homepage5 .dark_mail .mc4wp-form input[type=email]::placeholder {
+    color: #fff;
+    font-weight: 300;
+}
+.countdown-time #home-countdown-timer > div {
+    margin: 0 30px 0 0;
+}
+.themeum-twitter-shortcode.tweet-padding {
+    padding: 30px;
+}
+.recent-result-wrap h2 {
+    background: transparent !important;
+    color: #000 !important;
+}
+
+/*******EXTRA CSS******/
+#pull-reasult-html{
+    margin-bottom: 20px;
+}

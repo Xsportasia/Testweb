@@ -1,0 +1,91 @@
+/*
+* Plugin Name: Themeum Soccer
+* Plugin URI: http://www.themeum.com/item/themeum-soccer
+* Author: Themeum
+* Author URI: http://www.themeum.com
+* License - GNU/GPL V2 or Later
+* Description: Themeum Soccer is a Soccer plugin.
+* Version: 1.0
+*/
+
+.match-timeline-inner .yellow-card{
+	background: url(../images/icons/yellow-card.png) no-repeat;
+}
+.match-timeline-inner .double-yellow{
+	background: url(../images/icons/double-yellow-card.png) no-repeat;
+}
+.match-timeline-inner .red-card{
+	background: url(../images/icons/red-card.png) no-repeat;
+}
+.match-timeline-inner .free-kick{
+	background: url(../images/icons/free-kick.png) no-repeat;
+}
+.match-timeline-inner .panalty{
+	background: url(../images/icons/penalty.png) no-repeat;
+}
+.match-timeline-inner .corner-kick{
+	background: url(../images/icons/corner-kick.png) no-repeat;
+}
+.match-timeline-inner .goal{
+	background: url(../images/icons/goal.png) no-repeat;
+}
+.match-timeline-inner .goal-shot{
+	background: url(../images/icons/goal-shot.png) no-repeat;
+}
+.match-timeline-inner .foul{
+	background: url(../images/icons/foul.png) no-repeat;
+}
+.match-timeline-inner .handball{
+	background: url(../images/icons/handball.png) no-repeat;
+}
+.match-timeline-inner .start-first-half{
+	background: url(../images/icons/start-first-half.png) no-repeat;
+}
+.match-timeline-inner .start-second-half{
+	background: url(../images/icons/start-second-half.png) no-repeat;
+}
+.match-timeline-inner .throw{
+	background: url(../images/icons/throw.png) no-repeat;
+}
+.match-timeline-inner .off-side{
+	background: url(../images/icons/offside.png) no-repeat;
+}
+.match-timeline-inner .extra-time-1{
+	background: url(../images/icons/extra-time.png) no-repeat;
+}
+.match-timeline-inner .extra-time-2{
+	background: url(../images/icons/extra-time-2.png) no-repeat;
+}
+
+/************ADDON CSS*******/
+.wppb-latest-match.style3-container .countdown-time{
+	padding: 0;
+}
+.next-match-title{
+	color: #fff;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 0;
+}
+
+.wppb-soccer-poll .radio label{
+	line-height: 28px;
+	padding-left: 25px;
+}
+.wppb-soccer-poll .radio input[type=radio]{
+	margin-left:-25px;
+}
+.wppb-soccer-poll #project-result{
+	display: inline-block;
+    border: 0;
+    padding: 4px 15px;
+    border-radius: 2px;
+    margin-left: 10px;
+    color: #000;
+}
+.wppb-soccer-poll .themeum-poll-hover{
+	padding: 20px 30px;
+}
+
+

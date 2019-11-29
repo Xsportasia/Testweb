@@ -1,0 +1,435 @@
+/* ==========================================================================
+      responsive
+========================================================================== */
+.nano { background: #bba; }
+.nano .nano-content { padding: 10px; }
+.nano .nano-pane   { background: #888; }
+.nano .nano-slider { background: #111; }
+
+
+@media (min-width: 961px) and (max-width: 1199px) {
+	.boxwidth,
+	.boxwidth #masthead.sticky{
+		max-width: 100%;
+	}
+    #main-menu .nav>li>a{
+		padding: 0 7px;
+	}
+	/* match details */
+	.matech-team .title h4 {
+		font-size: 32px;
+	}
+	.latest-team .latest-team-a, .latest-team .latest-team-b {
+	    font-size: 16px;
+	}
+	.latest-team .latest-team-b:before{
+		border-width: 29px 35px 20px 23px;
+	}
+	.latest-team .latest-team-a:after{
+		border-width: 31px 38px 18px 20px;
+	}
+	.themeum-overlay-inner{
+		padding: 5px;
+	}
+	.highlights-intro .entry-category a{
+		padding: 2px 5px;
+		font-size: 14px;
+	}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 960px){
+	#navigation .navbar-nav > li > a {
+		padding: 40px 10px !important;
+	}
+	.match-place{
+		width: 100%;
+		padding-left: 15px;
+	}
+	.boxwidth,
+	.boxwidth #masthead.sticky{
+		max-width: 100%;
+	}
+
+	#main-menu {
+		padding: 0;
+		text-align: center;
+	}
+
+	#main-menu .nav{
+		display: inline-block;
+	}
+
+	#main-menu .nav>li>a{
+		padding: 0 7px;
+	}
+
+	.navbar-brand>img {
+		  margin-top: 20px;
+	}
+
+	#main-menu .nav>li>ul li a{
+		font-size: 12px;
+	}
+
+	#main-menu .sub-menu li a{
+		text-align: left;
+	}
+
+	/* latest match */
+	.latest-team .latest-team-a, 
+	.latest-team .latest-team-b {
+		font-size: 18px;
+	}
+	.latest-team .latest-team-a {
+		padding: 22px 0 15px 20px;
+	}
+	.latest-team .latest-team-b {
+		padding: 22px 20px 15px 0;
+	}
+
+	/* popular-image */
+	.popular-image img {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.popular-news-style2-item .media>.pull-left {
+		float: none !important;
+	}
+	/* footer widget */
+	.footer-wrap-inner {
+		background: none;
+	}	
+	.thm-footer-1-inner {
+		margin-bottom: 40px;
+	}
+
+	/* match details */
+	.matech-team .title h4 {
+		font-size: 20px;
+	}
+
+	.match-detail-league-title {
+		margin-top: 80px;
+		font-size: 15px;
+	}
+
+	.match-team-inner .right {
+		  margin-left: 16px;
+	}
+
+	.match-team-inner .left {
+		margin-right: 16px;
+	}
+
+	.match-team-inner h4 {
+		font-size: 13px;
+	}
+
+	.match-banner .score.league {
+	  line-height: 50px;
+	  margin-top: 20px;
+	}
+	.match-details-tab-content #group .group-name-wrap{
+		background-color: none;
+	}
+
+}
+
+@media (max-width: 767px) {
+
+	#main-menu .wp-megamenu-wrap .signup-signin a {
+	    display: inline-block;
+	    margin-top: 10px;
+	    margin-bottom: 20px;
+	}
+
+	.themeum-latest-match-layout2 #home-countdown-timer {
+	    float: left;
+	}
+	.latest-team-wrap {
+	    margin-top: 24px;
+	    padding: 0 25px;
+	}
+	.image-wrap {
+	    margin-bottom: 10px;
+	}
+	.match-opening-cont {
+	    margin-top: 22px;
+	    padding: 0 25px;
+	}
+	.match-date-cont {
+	    margin-top: 22px;
+	    padding: 0 25px;
+	}
+	.highlights-item {
+	    margin-bottom: 30px;
+	}
+	.thm-ads-banner{
+		margin-top: 0 !important;
+	}
+
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	    width: 46.8% !important;
+	    margin-bottom: 25px !important;
+	}
+
+	#navigation .woocommerce.widget_shopping_cart {
+		right: auto;
+		left: 0;
+		top:35px;
+	}
+	.highlight-style3 .themeum-overlay-wrap img {
+	    width: 100%;
+	    height: 100%;
+	}
+	
+	/*main menu*/
+	#sign-form .modal-body form {
+		width: 100%;
+	}
+	#navigation .navbar-nav{
+		float: none;
+		margin: 0;
+	}
+	#navigation.navbar {
+		padding: 0;
+	}
+	#navigation .navbar-brand{
+		padding-top: 3px;
+		padding-bottom: 0px;
+		margin-left: 0;
+	} 
+	.navbar-toggle .icon-bar{
+ 		background: #fff;
+ 	}
+	#navigation .navbar-nav > li > a {
+		padding: 10px 15px !important;
+	}
+	#header-container #navigation {
+		position: relative;
+	}
+
+	/*secondary*/
+	.secondary-menu-wrap {
+		  background: rgba(0,0,0,.85);
+	}
+	#menu-secondary-menu.navbar-nav {
+		margin: inherit;
+	} 
+	#menu-secondary-menu.navbar-nav>li>a {
+	  line-height: 42px;
+	  min-height: 42px;
+	}	
+	#menu-secondary-menu.navbar-nav>li {
+		display: inline-block;
+	}
+	/* search */
+	.home-search form input {
+		height: 50px;
+		line-height: 50px;
+	}
+	.home-search form#searchform i {
+		top: 14px;
+		right: 10px;
+	}
+
+	/* SLider2 */
+	.slider2-score {
+		font-size: 30px;
+	}
+
+	.slider2-time {
+		line-height: 24px;
+	}
+	.slider2-box {
+		  height: 170px;
+	}
+
+	.slider2-carousel-indicators .container .slider2-carousel-indicators-inner,
+	.slider2-carousel-indicators .nano .nano-pane {
+		display: none;
+	}
+
+	/* latest match */
+	#home-countdown-timer > div.next-match-count {
+		margin: 0 15px 0 0;	
+	}
+	#home-countdown-timer > div {
+		margin: 0 10px 0 0;
+	}
+	.themeum-latest-match .latest-team {
+		  text-align: center;
+	}
+	.latest-team .latest-team-a, 
+	.latest-team .latest-team-b {
+		  line-height: 28px;
+		  display: block;
+		  margin: 20px 0;
+	}
+	.latest-team .latest-team-b:before,
+	.latest-team .latest-team-a:after {
+		display: none;
+	}
+
+	/* Breaking News */
+	.themeum-breaking-news .carousel-inner h3 {
+		line-height: 28px;
+		margin: 12px 0;	
+	}
+
+	/* Soccer Heighlights */
+	.highlights-wrapper img,
+	.highlights-style2-item img,
+	.themeum-featured-item img {
+		width: 100%;
+	}
+
+	/* Player */
+	.player-inner img {
+		width: 100%;
+	}
+
+	/* themeum poll */
+	.themeum-poll {
+		margin-bottom: 30px;
+	}
+
+	/* footer widget */
+	.footer-wrap-inner {
+		background: none;
+	}
+	.thm-footer-1-inner {
+		margin-bottom: 40px;
+	}
+
+	/* match details */
+	.matech-team-left,
+	.matech-team-right {
+		text-align: center;
+	}
+	.goal-count.media .text-right{
+		text-align: center;
+	}
+	.matech-team.pull-right,
+	.matech-team.pull-left,
+	.goal-count.media .pull-right,
+	.goal-count.media .pull-left,
+	.match-goal-info .pull-left,
+	.match-goal-info .pull-right{
+		float: none !important;
+	}
+
+	.match-banner .score {
+		margin: 30px 0;
+	}
+
+	.match-detail-league-title {
+		margin-top: 80px;
+		font-size: 15px;
+	}
+
+	.goal-timeline .timeline-titme {
+		margin: 0 3px;
+	}
+
+	.nav-tabs.match-details-tab-nav>li>a {
+		margin-right: 12px;
+		font-size: 12px;
+	}
+	.matech-details-team .pull-left {
+		padding-right: 30px;
+	}
+	.matech-details-team .pull-right {
+		padding-left: 30px;
+	}
+	.match-goal-info .pull-left,
+	.match-goal-info .pull-right {
+		text-align: center;
+	}
+	.match-goal-info .text-center {
+		padding: 30px 0;
+	}
+	.match-status-info {
+		padding: 0;
+	}
+	.match-status-list .status {
+		font-size: 14px;
+	}
+
+	.match-details-tab-nav>li {
+		float: none;
+		  margin-bottom: 15px;
+	}
+	.match-teams {
+		padding: 0;
+	}
+
+	.team-overlay .player-overlay {
+		left: 35px;
+	}
+
+	.team-overlay .player-overlay-right {
+		left: auto;
+		right: 35px;
+	}
+
+	.team-overlay {
+		margin: 20px 0;
+	}
+
+	.league-banner {
+		text-align: center;
+	}
+
+	/* match details */
+	/*.match-details-inner {
+		padding: 60px 0;
+	}*/
+	.result-list .fixture-team-inner .status {
+		line-height: 24px;
+	}
+  
+  .themeum-overlay-wrap.yes img,
+  .themeum-video-post-wrapper-style2 img{
+		width: 100%;
+	}
+	
+	.player-profile-rightside h3 {
+		margin-top: 30px;
+	}
+  .all-items.col-xs-12 {
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 489px) {
+	.countdown-section.next-match-count {
+	    display: block;
+	    width: 100%;
+	    padding-bottom: 15px;
+	}
+	#home-countdown-timer > div {
+	    margin: 0 22px 0 0;
+	}
+	.latest-team .latest-team-a {
+	    padding: 15px;
+	}
+	.latest-team .latest-team-b {
+	    padding: 15px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
